@@ -28,7 +28,7 @@ Based on the provided performance metrics, all three models show similar perform
 To run the script:
 
    1. Clone this repository.
-   2. Ensure you have the required packages installed (**pandas**, **numpy**, **seaborn**, **matplotlib**, **scikit-learn**).
+   2. Ensure you have the required packages installed (**pandas**, **numpy**, **seaborn**, **matplotlib**).
    3. No additional configuration is required beyond the installation steps. However, you may need to adjust the path to your dataset and model directory according to your local setup
    4. Run the Python script housing_price_prediction.py
 
